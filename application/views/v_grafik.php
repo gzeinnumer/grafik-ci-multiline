@@ -8,7 +8,6 @@
 		<script src="<?php echo base_url();?>assets/js/highcharts.js"></script>
 
 		<script type="text/javascript">
-		//2)script untuk membuat grafik, perhatikan setiap komentar agar paham
             $(function () {
                 var chart;
                 $(document).ready(function() {
